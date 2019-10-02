@@ -41,7 +41,7 @@ The day-to-day operations of the Interest Group is documented in this repository
 | Donald Hobern | GBIF | [dhobern@gbif.org](mailto:dhobern@gbif.org) |
 | Barbara Thiers | NYBG | [bthiers@nybg.org](mailto:bthiers@nybg.org) |
 | Kevin Love| iDigBio | [klove@flmnh.ufl.edu](mailto:klove@flmnh.ufl.edu) |
-| Andrea Hahn | GBIF | [ahan@gbif.org](mailto:ahan@gbif.org) |
+| Andrea Hahn | GBIF | [ahahn@gbif.org](mailto:ahahn@gbif.org) |
 | James Macklin | Ag Canada | [james.macklin@agr.gc.ca](mailto:james.macklin@agr.gc.ca) |
 | Anissa Lybaert | Ag Canada | [Anissa.lybaert@agr.gc.ca](mailto:Anissa.lybaert@agr.gc.ca) |
 | Joel Ramirez | NYBG | [jramirez@nybg.org](mailto:jramirez@nybg.org) |
@@ -59,7 +59,11 @@ The day-to-day operations of the Interest Group is documented in this repository
 | Sarah Vincent | Natural History Museum London | [s.vincent@nhm.ac.uk](mailto:s.vincent@nhm.ac.uk) |
 | Heather Cole | Ag Canada | [Heather.Cole@AGR.GC.CA](mailto:Heather.Cole@AGR.GC.CA)|
 | Shelley James | RBGS | [Shelley.James@rbgsyd.nsw.gov.au](mailto:Shelley.James@rbgsyd.nsw.gov.au) |
-|Quentin Groom|Meise Botanic Garden/TDWG/Synthesys+|[quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be)|
+| Quentin Groom | Meise Botanic Garden/TDWG/Synthesys+ | [quentin.groom@plantentuinmeise.be](mailto:quentin.groom@plantentuinmeise.be) |
+| Ana Casino | CETAF | [ana.casino@cetaf.org](mailto:ana.casino@cetaf.org) |
+| Wim van Dongen | Picturae | [w.vandongen@picturae.com](mailto:w.vandongen@picturae.com) |
+| Sharif Islam | Naturalis Biodiversity Center | [sharif.islam@naturalis.nl](mailto:sharif.islam@naturalis.nl) |
+| Maarten Trekels | Meise Botanic Garden/Synthesys+ | [maarten.trekels@plantentuinmeise.be](mailto:maarten.trekels@plantentuinmeise.be) |
 
 ## Collection Descriptions Standard (CD) Repository Navigation ##
 
@@ -81,7 +85,8 @@ This document gathers some of the key known issues to keep in mind as the CD sta
 ### CD Way of Work
 As much as possible, each group is taking on a self-selected task and will manage delivery of it as they choose (meeting as needed). They may link to working documents however they choose (google docs, other, ...) but will upload summary and completed documents directly to GitHub in the appropriate folder (e.g. [meetings](https://github.com/tdwg/cd/tree/master/meetings) and [documents](https://github.com/tdwg/cd/tree/master/documents)) for that task. Where possible, links to external working documents should be added to the [document links page](https://github.com/tdwg/cd/blob/master/documents/DOCUMENT_LINKS.md) to make them easily findable by TG members.
 
-The CD TG as a whole will meet 1/x month.
+The CD TG as a whole will meet 1/x month. 4th Wednesday of each month (2019) except where holidays require date/time to change.
+Meetings are held 2x on that day (one Eastern-time friendly, one Western)
 
 ### [CD Projects and associated tasks](https://github.com/tdwg/cd/projects)  
 We started with a [spreadsheet](https://docs.google.com/spreadsheets/d/1LmQvzOUeO4gbZAnHQPYsqxOwJYg9SqdiNT4guJkJ8RU/edit?usp=sharing) acting as a template for a Gantt-style chart of all our envisioned tasks with dependencies. From this chart, we created [GitHub milestones](https://github.com/tdwg/cd/milestones) where each group can manage tracking the issues and timelines related to that task. These tasks are now each grouped into GitHub projects.
@@ -131,7 +136,7 @@ GRBio - **Global Repository of Biodiversity Repositories**.  GRBio is now shephe
 * [MOBILISE](https://www.cost.eu/actions/CA17106/#tabs|Name:overview) - Mobilising Data, Policies and Experts in Scientific Collections. European Natural Science Collections host approximately 1.5 billion biological and geological collection objects, which represent about 80% of the known current and past biological and geological diversity on earth. The scope of this MOBILISE is to foster a cooperative network in Europe to support excellent research activities, and facilitate knowledge and technology transfer around natural science collections. This will prepare the ground for a future pan-European Distributed System of Scientific Collections (DiSSCo).
 * RDF - **Resource Description Framework**. From the [W3C Semantic Web](https://www.w3.org/RDF/): RDF is a standard model for data interchange on the Web. RDF has features that facilitate data merging even if the underlying schemas differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed. Also see the TDWG [Beginner's Guide to RDF](https://github.com/tdwg/rdf/blob/master/Beginners.md).  
 * [SPNHC](http://www.spnhc.org/) - The **Society for the Preservation of Natural History Collections** [SPNHC] is an international society whose mission is to improve the preservation, conservation and management of natural history collections to ensure their continuing value to society.
-* [SYNTHESYS](http://www.synthesys.info/home.html) - **Synthesis of Systematic Resources**. SYNTHESYS+ is a European Commission - funded project, creating an integrated European infrastructure for natural history collections.
+* [SYNTHESYS](http://www.synthesys.info/) - **Synthesis of Systematic Resources**. SYNTHESYS+ is a European Commission - funded project, creating an integrated European infrastructure for natural history collections.
 
 
 ## Repo structure
